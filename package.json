@@ -1,0 +1,21 @@
+{
+  "name": "yell-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yell",
+    "yell.dmm.com",
+    "crawl"
+  ],
+  "author": "ChrisJeong",
+  "dependencies": {
+    "async": "^2.4.1",
+    "cheerio": "^1.0.0-rc.1",
+    "request": "^2.81.0"
+  }
+}
